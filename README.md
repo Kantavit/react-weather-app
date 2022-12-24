@@ -16,5 +16,5 @@ You may also see any lint errors in the console.
 
 ### `API Needed`
 
-OpenWeather API: [Link](https://openweathermap.org/)
+OpenWeather API: [Link](https://openweathermap.org/)\
 GeoDB Cities API: [Link](https://rapidapi.com/wirefreethought/api/geodb-cities/)
